@@ -1,0 +1,4 @@
+gcc -Wall -Werror -o bin/my-cat my-cat.c
+gcc -Wall -Werror -o bin/my-grep my-grep.c
+gcc -Wall -Werror -o bin/my-zip my-zip.c
+gcc -Wall -Werror -o bin/my-unzip my-unzip.c

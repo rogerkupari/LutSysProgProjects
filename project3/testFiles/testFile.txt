@@ -1,0 +1,10 @@
+ls -la
+path
+path /usr/bin/
+path
+ls
+cd ..
+ls
+cd ..
+pwd
+ls
