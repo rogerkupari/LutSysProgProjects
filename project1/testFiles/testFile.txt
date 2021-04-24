@@ -1,1 +1,8 @@
-gcc -Wall -Werror -o bin/reverse reverse.c
+gcc 
+-Wall 
+-Werror 
+-o 
+bin
+/
+reverse 
+reverse.c
